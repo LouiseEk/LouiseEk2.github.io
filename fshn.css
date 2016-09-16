@@ -1,0 +1,80 @@
+.banner
+{width: 100%}
+
+.banner
+ {opacity: 0.75;}
+
+.ct-chart {height: 500px;
+	width: 500px;
+
+	margin-left: 80px;
+	margin-right: 80px;
+
+	float: left;}
+
+p 	{font-family: 'Slabo 27px', serif;
+	color: dimgrey;
+	font-size: 20px;}
+
+.ct-label
+	{font-size: 20px;}
+
+.ct-series-a .ct-slice-donut 
+	{stroke: lightblue;}
+
+.ct-series-b .ct-slice-donut 
+	{stroke: lightseagreen;}
+
+p 	{margin-top: 80px;
+	margin-left: 80px;
+	margin-right: 80px;}
+
+.img2
+{width: 800px;
+margin-top: 80px;
+border-radius: 20px;
+display: block;
+    margin: auto;
+    width: 50%;
+position: center;}
+
+
+.ct-chart2 
+	{height: 500px;
+	width: 500px;
+
+	margin-left: 80px;
+	margin-right: 80px;
+
+	float: right;
+
+font-size: 40px;}
+
+.ct-series-a .ct-slice-pie {
+  fill: slategrey;}
+
+.ct-series-b .ct-slice-pie {
+  fill: lightsteelblue;}
+
+
+.img4
+{width: 800px;
+margin-top: 80px;
+display: block;
+    margin: auto;
+    width: 50%;
+position: center;
+
+border: 4px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;}
+
+
+
+
+
+
+
+
+
+
